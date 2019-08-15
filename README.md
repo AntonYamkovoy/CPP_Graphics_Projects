@@ -1,3 +1,3 @@
 # CPP_Graphics_Projects
 OpenGL / SDL c++ projects
-![Spiral](https://giphy.com/gifs/WP3WEkenhpBRpqAlMj.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
