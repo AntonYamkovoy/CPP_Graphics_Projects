@@ -1,0 +1,21 @@
+﻿  AudioEngine.cpp
+  Bengine.cpp
+  Camera2D.cpp
+  BengineErrors.cpp
+  GLSLProgram.cpp
+  ImageLoader.cpp
+  InputManager.cpp
+  IOManager.cpp
+  IMainGame.cpp
+  ParticleBatch2D.cpp
+  ParticleEngine2D.cpp
+  picoPNG.cpp
+  ResourceManager.cpp
+  ScreenList.cpp
+  Sprite.cpp
+  SpriteBatch.cpp
+  SpriteFont.cpp
+  TextureCache.cpp
+  Timing.cpp
+  Window.cpp
+  Bengine.vcxproj -> C:\Users\Anton\source\repos\graphics_tutorial\Release\Bengine.lib

@@ -1,0 +1,28 @@
+﻿  Bullet.cpp
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\Bullet.cpp(20,19): error C2039:  'Color': is not a member of 'Bengine::Vertex'
+C:\Users\Anton\source\repos\graphics_tutorial\Bengine\Vertex.h(33): message :  see declaration of 'Bengine::Vertex'
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\Bullet.cpp(20,25): error C2065:  'Color': undeclared identifier
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\Bullet.cpp(20,25): error C2146:  syntax error: missing ';' before identifier 'color'
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\Bullet.cpp(20,25): error C2065:  'color': undeclared identifier
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\Bullet.cpp(21,2): error C2065:  'color': undeclared identifier
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\Bullet.cpp(22,2): error C2065:  'color': undeclared identifier
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\Bullet.cpp(23,2): error C2065:  'color': undeclared identifier
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\Bullet.cpp(24,2): error C2065:  'color': undeclared identifier
+  MainGame.cpp
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\Bullet.cpp(28,53): error C2065:  'color': undeclared identifier
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\MainGame.cpp(65,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\MainGame.cpp(192,52): error C2660:  'Bengine::SpriteBatch::begin': function does not take 1 arguments
+C:\Users\Anton\source\repos\graphics_tutorial\Bengine\SpriteBatch.h(84,8): message :  see declaration of 'Bengine::SpriteBatch::begin'
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\MainGame.cpp(196,19): error C2039:  'Color': is not a member of 'Bengine::Vertex'
+C:\Users\Anton\source\repos\graphics_tutorial\Bengine\Vertex.h(33): message :  see declaration of 'Bengine::Vertex'
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\MainGame.cpp(196,25): error C2065:  'Color': undeclared identifier
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\MainGame.cpp(196,25): error C2146:  syntax error: missing ';' before identifier 'color'
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\MainGame.cpp(196,25): error C2065:  'color': undeclared identifier
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\MainGame.cpp(197,2): error C2065:  'color': undeclared identifier
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\MainGame.cpp(198,2): error C2065:  'color': undeclared identifier
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\MainGame.cpp(199,2): error C2065:  'color': undeclared identifier
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\MainGame.cpp(200,2): error C2065:  'color': undeclared identifier
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\MainGame.cpp(203,45): error C2065:  'color': undeclared identifier
+  main.cpp
+  Generating Code...
+C:\Users\Anton\source\repos\graphics_tutorial\graphics_tutorial\MainGame.cpp(205,20): warning C4018:  '<': signed/unsigned mismatch
