@@ -1,4 +1,4 @@
 # CPP_Graphics_Projects
 OpenGL / SDL c++ projects
 
-![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
+![](https://media.giphy.com/media/kDI3PU7MZjiKaRwK54/giphy.gif)
